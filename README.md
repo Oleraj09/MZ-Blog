@@ -1,5 +1,29 @@
 ## Demo
 
+``` Homepage ```
+
+<img src="https://raw.githubusercontent.com/Oleraj09/MZ-Blog/master/WebTemplate/home.png" alt="Desktop Homepage">
+
+``` Item wise Show ```
+
+<img src="https://raw.githubusercontent.com/Oleraj09/MZ-Blog/master/WebTemplate/singlepage.png" alt="Item wise Show item">
+
+``` Category Wise Show ```
+
+<img src="https://raw.githubusercontent.com/Oleraj09/MZ-Blog/master/WebTemplate/catwise.png" alt="Category Wise Show">
+
+``` Admin Panel ```
+
+<img src="https://raw.githubusercontent.com/Oleraj09/MZ-Blog/master/WebTemplate/admin.PNG" alt="Admin Panel">
+
+``` Author Dashboard ```
+
+<img src="https://raw.githubusercontent.com/Oleraj09/MZ-Blog/master/WebTemplate/Author.png" alt="Author Dashboard">
+
+``` User Dashboard ```
+
+<img src="https://raw.githubusercontent.com/Oleraj09/MZ-Blog/master/WebTemplate/user.png" alt="User Dashboard">
+
 ## Run Webapp
 To run this application must require node module and composer autoload module.
 
