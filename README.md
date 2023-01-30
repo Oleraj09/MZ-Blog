@@ -1,5 +1,10 @@
-##MZ-Blog :: A Simple Blog Site
-MZ Blog is created with only HTML,CSS,JS,Bootstrap for Frontend Developemnt. For Backend Development used PHP framework Laravel and MySQL for Database Design. Also there is comment system for sepecific post. User Can only read and comment on post. But a author can do same as User but has extra ability to create blog post. All Above there is Admin panle, those are can do anything to the website. Admin Panel has all the power and permission.
+## MZ-Blog :: A Simple Blog Site
+MZ Blog is created with only HTML,CSS,JS,Bootstrap for Frontend Developemnt. For Backend Development used PHP framework Laravel and MySQL for Database Design. 
+Also there is comment system for sepecific post. User Can only read and comment on post. 
+
+But author can do same as User but has extra ability to create blog post. All Above there is Admin panle, those are can do anything to the website. Admin Panel has all the power and permission.
+
+
 However this is simple and minimal project that i created.
 ## Demo
 
